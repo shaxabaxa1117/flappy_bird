@@ -1,6 +1,6 @@
 # Flappy Bird
 
-<img src="assets/photos/image2.png" alt="Flappy Bird" width="200" height = "300">
+<img src="assets/photos/image2.png" alt="Flappy Bird" width="200" height = "400">
 
 Flappy Bird - это новая игра, созданная с использованием Flutter и Flame. Ваша цель - управлять птицей, избегая препятствий и набирая очки.
 
