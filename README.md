@@ -1,16 +1,40 @@
-# flappy_bird
+# Flappy Bird
 
-A new Flutter game.
+![Flappy Bird](assets/photos/image2.png){ width=200 height=300 }
 
-## Getting Started
+Flappy Bird - это новая игра, созданная с использованием Flutter и Flame. Ваша цель - управлять птицей, избегая препятствий и набирая очки.
 
-This project is a starting point for a Flutter application.
+## 🚀 Начало работы
 
-A few resources to get you started if this is your first Flutter project:
+Этот проект является отправной точкой для создания приложения на Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📚 Ресурсы для начала
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Если это ваш первый проект на Flutter, вот несколько ресурсов, которые помогут вам начать:
+
+- [Лаборатория: Напишите свое первое приложение на Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Книга рецептов: Полезные примеры Flutter](https://docs.flutter.dev/cookbook)
+
+Для получения помощи по началу разработки на Flutter, ознакомьтесь с [онлайн документацией](https://docs.flutter.dev/), которая предлагает учебные пособия, примеры, руководство по мобильной разработке и полный API-справочник.
+
+## 📦 Установка
+
+1. Убедитесь, что у вас установлены Flutter и Dart SDK.
+2. Клонируйте репозиторий:
+    ```sh
+    git clone https://github.com/yourusername/flappy_bird.git
+    ```
+3. Перейдите в директорию проекта:
+    ```sh
+    cd flappy_bird
+    ```
+4. Установите зависимости:
+    ```sh
+    flutter pub get
+    ```
+
+## 🕹️ Запуск игры
+
+Для запуска игры на вашем устройстве или эмуляторе, выполните следующую команду:
+```sh
+flutter run
